@@ -53,4 +53,4 @@ Thank you for your patience.
 
 **Luca Demers | LLB, MD | CRTO, OSCP, OSEP**
 
-lucademers [at] protonmail [dot] com
+lucademers [at] redlife [dot] ca

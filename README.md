@@ -51,6 +51,6 @@ For collaboration or to stay informed about upcoming releases, feel free to reac
 
 Thank you for your patience.
 
-**Luca Demers | LLB, MD | CRTO, OSCP, OSEP**
+**Luca Demers | LLB (Hons), MD | CRTO, OSCP, OSEP**
 
 lucademers [at] redlife [dot] ca
